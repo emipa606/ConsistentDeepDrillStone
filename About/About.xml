@@ -30,7 +30,7 @@
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Evelyns mod https://steamcommunity.com/sharedfiles/filedetails/?id=2654916034
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://i.imgur.com/x5cRNO9.png[/img]
 
 [table]
     [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/ConsistentDeepDrillStone][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
@@ -55,14 +55,6 @@ A - Absolutely, but understand that if your map was generated without Consistent
 Q - Can I remove this safely without messing up my save?
 A - Yep, all deep drill resources will instantly become what they would be without this mod without even re-placing the drills.
 
-[h1]Like my mods? Help me survive, lol.[/h1]
-Venmo: @UdderlyEvelyn
-Paypal: yushatak@gmail.com (I do not check this email, do not contact me through it!)
-Ko-Fi: http://ko-fi.com/UdderlyEvelyn
-Patreon: https://www.patreon.com/UdderlyEvelyn
-
-stone rock deep drill return yield give get mine type variety flavor mod placed floor on top of wrong correct
-
 [img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
@@ -72,6 +64,8 @@ stone rock deep drill return yield give get mine type variety flavor mod placed 
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3248605918][img]https://img.shields.io/github/v/release/emipa606/ConsistentDeepDrillStone?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>

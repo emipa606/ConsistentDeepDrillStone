@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>0ce5e94c-4aab-492b-914b-6e4c15f79218</ID>
   <ModName>Consistent Deep Drill Stone (Continued)</ModName>
-  <Version>1.5.1</Version>
+  <Version>1.5.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
 
